@@ -1,0 +1,22 @@
+{
+  "name": "appproject",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "marct69 <mtrillou@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "materialize": "^0.97.8",
+    "material-design-icons": "https://github.com/google/material-design-icons.git",
+    "angular": "^1.5.8"
+  }
+}

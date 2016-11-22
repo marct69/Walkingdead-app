@@ -1,0 +1,97 @@
+
+[
+  {
+    "id":"1",
+    "pseudo":"Rick Grimes",
+    "sexe":false,
+    "photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Andrew_Lincoln_by_Gage_Skidmore.jpg/505px-Andrew_Lincoln_by_Gage_Skidmore.jpg",
+    "activite":"sherriff",
+    "date de naissance":"28/12/1982",
+    "coordonnees":{
+      "latitude": 40.662400,
+      "longitude": -73.908814
+        },
+    "pays":"USA",
+    "resume":"Rick Grimes is portrayed by Andrew Lincoln and is the series' central character. A former sheriff's deputy in a small Georgia town, Rick is an everyman[1][2][3] — smart, calm, just, a sharpshooter, and a good friend, husband and father — but flawed. Rick is a natural leader, someone his fellow survivors will turn to in a crisis, confident in his guidance, even when he at times doubts himself. His overwhelming need to do the right thing and protect those who can't protect themselves may pull him away from his family, causing cracks of tension within his marriage with Lori and in his relationship with his son Carl. His frustrations about leading his group and keeping them safe in the new world gradually change him into a darker character.",
+    "saison":[1,2,3,4,5,6,7]
+  },
+  {
+    "id":"2",
+    "pseudo":"Carl Grimes",
+    "sexe":false,
+    "photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chandler_Riggs_2014.jpg/457px-Chandler_Riggs_2014.jpg",
+    "activite":"son",
+    "date de naissance":"05/02/1995",
+    "coordonnees":{
+      "latitude": 40.662400,
+      "longitude": -73.908814
+        },
+    "pays":"USA",
+    "resume":"Carl Grimes' is portrayed by Chandler Riggs.[4] Carl is the son of Rick and Lori, and Judith's older brother. Confronted with the harsh realities of his new world, he quickly learns to defend himself and even rescues Rick from a reanimated Shane. In the prison, when his mother dies during childbirth, he shoots her in the head to prevent her from turning. The ease with which he shoots a member of The Governor's militia troubles Rick, leading him to give up his authority over the group and teaching Carl to farm, renouncing violence. When The Governor attacks for the final time, he and Carl are separated from the rest of the group. With Rick severely injured and unconscious, Carl reveals his anger towards his father for failing to protect the group and his mother. He raids neighboring houses for supplies but is nearly overcome by a walker. He returns to the house and reveals he still depends on his father, and can't bear to bring himself to shoot Rick if he does turn. Rick eventually recovers and they are reunited with Michonne, but are driven from the house by the Claimers. They later meet the Claimers again on the road, where one of the members nearly rapes Carl. After overcoming them with Daryl's help, they travel to Terminus and are captured. After Terminus Carl spent a lot of time caring for Judith upon their reunion. When he arrives at Alexandria, he is initially awkward with the other teenagers, but befriends Enid, a girl who was outside for a long time also, they spend time together in the woods running from walkers. He also tries to prevent Rick beating Pete, but is unsuccessful. During the attack of the zombies on Alexandria, Carl gets shot in his right eye by a stray bullet shot by Ron. He is taken care of by Denise. His personality changes to make him a darker character from this wound. Negan calls him a future serial killer in the season six finale, which could imply how seriously dangerous Carl can become. Carl, along with Glenn, Rosita, Daryl, Michonne, Abraham, Maggie, Rick, Sasha, Eugene, and Aaron, are kidnapped by Negan. Negan begins to force Rick to cut Carl's arm off in the Season 7 premiere, but changes his mind once he sees Rick is broken.",
+    "saison":[1,2,3,4,5,6,7]
+  },
+  {
+    "id":"3",
+    "pseudo":"Daryl Dixon",
+    "sexe":false,
+    "photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Norman_Reedus_by_Gage_Skidmore.jpg/463px-Norman_Reedus_by_Gage_Skidmore.jpg",
+    "activite":"musician",
+    "date de naissance":"14/08/1985",
+    "coordonnees":{
+      "latitude": 40.728225,
+      "longitude": -73.999315
+        },
+    "pays":"USA",
+    "resume":"Daryl Dixon is portrayed by Norman Reedus. Daryl is Merle's younger brother. A Southern redneck with a tough background, Daryl is a survivalist and member of the Atlanta band who quickly becomes one of Rick's closest confidantes and a leader within the group, a role he is not entirely comfortable with. He develops a close relationship with Carol Peletier in the second season after spending a large amount of time searching for her missing daughter Sophia. After the fall of the prison, he escapes with Beth who is later kidnapped while he fights off a group of walkers. He joins a nomadic group (the Claimers) before turning on them to save Rick, Carl, and Michonne. In Season 5 he goes with Carol to Atlanta in an attempt to rescue Beth, but is forced to return with Noah when Carol is taken to Grady Memorial Hospital also. He returns with the group to break Beth and Carol out and is clearly devastated at Beth's death. He somewhat distances himself following this. Once the group arrives at Alexandria, Daryl befriends recruiter Aaron and eventually becomes a recruiter himself. Daryl and Aaron later discover Morgan in the woods and bring him to Alexandria. After an enormous herd of walkers is discovered near Alexandria, Daryl's role is to drive them away along with Sasha and Abraham. Daryl is driven away from Sasha and Abraham and has a small encounter with three strange people. He is knocked out by Dwight, who mistakes him for a Savior. Dwight steals Daryl's crossbow and motorcycle. Daryl is later found attempting to rescue Glenn and Michonne, who have been captured by Saviors. He is caught by Dwight, and shot near the shoulder. Daryl, along with Glenn, Rosita, Michonne, Abraham, Maggie, Rick, Sasha, Carl, Aaron, and Eugene are kidnapped by Negan. Daryl is one of the members of the group forced to kneel for Negan during his infamous eeny meeny minie moe speech. After the death of Abraham at Negans hands, Daryl becomes outraged when Negan forces a terrified Rosita to look at the remains of Abraham on his bat, Lucille. Daryl lashes out at at Negan in retaliation and punches him. Much to Daryl's horror, this causes Negan to further punish the group, responding to this outburst by killing Glenn. Negan takes Daryl back to the Sanctuary as prisoner, where he is tortured physically and psychologically in attempts to convince Daryl to join the Saviors.",
+    "saison":[4,5,6]
+  },
+  {
+    "id":"4",
+    "pseudo":"Lori Grimes",
+    "sexe":true,
+    "photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sarah_Wayne_Callies_January_2015.jpg/388px-Sarah_Wayne_Callies_January_2015.jpg",
+    "activite":"mother",
+    "date de naissance":"01/10/1981",
+    "coordonnees":{
+      "latitude": 40.732600,
+      "longitude": -74.001082
+        },
+    "pays":"USA",
+    "resume":"Lori Grimes is portrayed by Sarah Wayne Callies.[7] Lori is Rick's wife and Carl and Judith's mother. Believing Rick to be dead, she begins a relationship with Shane, but is loyal to Rick once he returns, and she pushes Shane away from her and Carl, of whom she is fiercely protective. In the second season, she discovers she is pregnant but is unsure who the father his. She attempts to comfort Shane so he will feel accepted in their group, but she is cautious about his reckless actions, and ultimately warns Rick that Shane is dangerous. At the same time, she is disturbed by her husband's gradual change in this more savage environment, and is shocked after learning he killed Shane. From their escape from the farm till their endeavor to take up residence at the prison, Lori becomes increasingly estranged from Rick and Carl, which she blames on herself. She becomes worried about her baby's survival, and when she goes into labor following a walker attack, Lori convinces Maggie to give her a C-section, despite the fact that it will prove fatal for her. Lori dies giving birth, and Carl is forced to shoot her to prevent reanimation.",
+    "saison":[1,2,3,4]
+  },
+  {
+    "id":"5",
+    "pseudo":"Shane Walsh",
+    "sexe":false,
+    "photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Jon_Bernthal_Phoenix_Comicon_2012.jpg/482px-Jon_Bernthal_Phoenix_Comicon_2012.jpg",
+    "activite":"sherriff",
+    "date de naissance":"15/03/1983",
+    "coordonnees":{
+      "latitude": 40.736372,
+      "longitude": -74.000672
+        },
+    "pays":"USA",
+    "resume":"Shane Walsh is portrayed by Jon Bernthal.[6] Shane is a former sheriff's deputy in a small Georgia town; he was Rick's partner in the sheriff's department and best friend since high school. Until Rick's arrival, Shane led the group of Atlanta survivors. Shane harbors feelings for Lori, and after the start of the apocalypse, when Lori believes Rick is dead, Shane starts a sexual relationship with her. When Rick finds them, Shane relinquishes the leadership position to Rick, while trying to hide his resentment towards Rick and his relationship with Lori. Within Season 2, Shane gradually becomes more unhinged and shows bouts of irrational violence and bloodlust after allowing another survivor die in an act of self-preservation. Shane eventually lures Rick away from the group to kill him, but Rick kills him first.",
+    "saison":[1,2,3]
+  },
+
+  {
+    "id":"6",
+    "pseudo":"Maggie Greene",
+    "sexe":true,
+    "photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Lauren_Cohan_by_Gage_Skidmore.jpg/476px-Lauren_Cohan_by_Gage_Skidmore.jpg",
+    "activite":"sherriff",
+    "date de naissance":"15/03/1983",
+    "coordonnees":{
+      "latitude": 40.738263,
+      "longitude": -73.993043
+        },
+    "pays":"USA",
+    "resume":"Maggie Greene is portrayed by Lauren Cohan.[10] Maggie is Hershel's daughter and Beth's elder half-sister. A tomboy at heart, she scavenges supplies from the local town. She develops strong feelings for Glenn, impressed by his bravery and loyalty to the group. After the fall of the farm, she settles 8 months later at the prison with the rest of the group. She and Glenn are later captured and interrogated by Merle and The Governor, to which she is sexually assaulted (forced to undress) by the Governor. After a rescue mission, she continues to be pro-active in defending the prison during The Governor's attacks, killing several snipers and soldiers to protect the prison survivors. She soon marries Glenn. When Glenn is infected by the deadly influenza virus that has spread across the prison and her father risks exposure by caring for the sick, she is fueled with anger and frustration until she rushes in to rescue her father and fiancee from the reanimated infected that overrun the quarantine zone before medicine is retrieved by the others. The Governor returns to the prison and Maggie witnesses her father's execution in horror. She defends the prison against the Governor's militia, before escaping the overrun compound with Sasha and Bob, unsure if her sister is alive or not. Being aware that Glenn is alive, Maggie searches and finds him, and soon goes on a mission to DC for a cure, which turns out to be false. She receives news that her sister is still alive, only to be left heartbroken once she arrives too late to meet her, as Beth has recently died. Maggie becomes depressed after her sister's death, but begins to recover before the group arrived at Alexandria. At Alexandria Maggie acts as Deanna's assistant. She tries to persuade Deanna not to exile Rick and also prevents Sasha from killing Gabriel. Maggie later discovers she is pregnant and worries with the possibility of Glenn's death. When they reunite, she joins the group to go to the Hilltop Colony where she negotiates a deal with Gregory for half of their supplies. When Rick initiates a plan to take out the Saviors, Maggie and Carol are captured by a female group of Saviors and Maggie is forced to kill them, as well as some others, to protect herself and the baby. She forms a maternal bond with Enid. When Enid gives Maggie a haircut, she collapses on the floor in pain and she is taken with a group to reach the Hilltop to see a doctor. Maggie, along with Glenn, Rosita, Daryl, Michonne, Abraham, Rick, Sasha, Carl, Eugene, and Aaron, are kidnapped by Negan before they can reach the Hilltop. Maggie is forced to watch as Negan kills her husband Glenn as punishment for Daryl hitting Negan. A devastated Maggie tells Rick to prepare to fight Negan as she attempts to collect Glenn's body.",
+    "saison":[1,2,3,4,5,6]
+  }
+
+
+
+]
